@@ -8,5 +8,6 @@ public class example2 {
     public static void main(String[] aegs){
         int a = add(3,2);
         System.out.println(a);
+
     }
 }

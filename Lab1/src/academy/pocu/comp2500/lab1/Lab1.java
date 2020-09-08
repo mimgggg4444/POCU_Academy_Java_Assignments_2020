@@ -6,13 +6,13 @@ public class Lab1 {
     }
 
     public static void main(String[] args){
-        a = operations(2,3);
+        int a = operations(2,3);
         System.out.println(a);
 
-        b = operations(-2, -3);
+        int b = operations(-2, -3);
         System.out.println(b);
 
-        c = operations(-2, 3);
+        int c = operations(-2, 3);
         System.out.println(c);
     }
 
