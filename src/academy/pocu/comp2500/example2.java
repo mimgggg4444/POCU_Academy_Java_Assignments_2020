@@ -6,8 +6,8 @@ public class example2 {
         return a + b;
     }
 
-    public static void main(String[] args){
-        int a = operations(2,3);
+    public static void main(String[] args) {
+        int a = operations(2, 3);
         System.out.println("2 + 3 = " + a);
         int b = operations(-2, -3);
         System.out.println("(-2) + (-3) = " + b);
