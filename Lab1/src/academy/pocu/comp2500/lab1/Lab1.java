@@ -7,13 +7,11 @@ public class Lab1 {
 
     public static void main(String[] args){
         int a = operations(2,3);
-        System.out.println(a);
-
+        System.out.println("2 + 3 = " + a);
         int b = operations(-2, -3);
-        System.out.println(b);
-
+        System.out.println("(-2) + (-3) = " + b);
         int c = operations(-2, 3);
-        System.out.println(c);
+        System.out.println("(-2) + 3 = " + c);
     }
 
 }
